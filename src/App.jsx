@@ -6,6 +6,9 @@ import Dishes from './Components/Dishes'
 import About from './Components/About'
 import Mission from './Components/Mission'
 import Experties from './Components/Experties'
+import Reviews from './Components/Reviews'
+import ContactSection from './Components/ContactSection'
+import Footer from './Components/Footer'
 
 const App = () => {
   return (
@@ -16,6 +19,10 @@ const App = () => {
 <About/>
 <Mission/>
 <Experties/>
+<Reviews/>
+<ContactSection/>
+<Footer/>
+
 
 </main>
   )
