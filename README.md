@@ -1,12 +1,39 @@
-# React + Vite
+# 🇮🇹 Italia – Modern Restaurant Landing Page 🍝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** 👉 [italia-sigma.vercel.app](https://italia-sigma.vercel.app/)
 
-Currently, two official plugins are available:
+Italia is a modern, fully responsive restaurant landing page built using **React**, **Tailwind CSS**, and **Framer Motion**. It features engaging animations, a mobile-first layout, and sleek design optimized for great user experience across all devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- ✅ Sticky Navigation Bar with smooth scroll
+- ✅ Mobile menu toggle for smaller screens
+- ✅ Full-screen video Hero section with animated logo
+- ✅ Dishes showcase with images and descriptions
+- ✅ About section with image + content layout
+- ✅ “Our Mission” section with video + text overlay
+- ✅ Expertise section showing popular cuisines
+- ✅ Customer review section with large typography
+- ✅ Gallery of customer images
+- ✅ Contact section with address, phone, and email
+- ✅ Footer with social media icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- React
+- Tailwind CSS
+- Framer Motion
+
+## 🛠️ Setup Instructions
+
+```bash
+git clone https://github.com/DishaniD/italia.git
+cd italia
+npm install
+npm run dev
+```
+
+## 📌 Prerequisites
+
+Basic understanding of **React** and **Tailwind CSS** is recommended.
+
