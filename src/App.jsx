@@ -5,7 +5,7 @@ const App = () => {
 
       <div>
         <h1 className="text-3xl font-bold underline bg-white">
-           Hello world!
+           Hello world! + Hi world
         </h1>
       </div>
   )
